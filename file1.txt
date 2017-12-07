@@ -1,1 +1,3 @@
 file1 in git_sample
+
+file1 changes in branch1
